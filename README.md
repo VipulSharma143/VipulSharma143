@@ -20,7 +20,10 @@ Software Engineer building enterprise-grade CRM & ERP platforms end-to-end — f
 |---|---|
 | 🎨 **Frontend** | Angular, React, React Native |
 | ⚙️ **Backend** | ASP.NET Core, Node.js |
+| 🗄️ **Databases** | SQL Server, MongoDB |
+| 🧩 **Tools** | Git, GitHub, VS Code, Postman |
 | 🌱 **Experience** | ~2 years shipping production apps across web & mobile |
 | 🤖 **Workflow** | AI-assisted development (Copilot, Claude, ChatGPT) |
-| 📫 **Contact** | vipulxharma@gmail.com |
+| 📫 **Contact** | [vipulxharma@gmail.com](mailto:vipulxharma@gmail.com) |
+| 🔗 **LinkedIn** | [vipul-sharma-b82215193](https://www.linkedin.com/in/vipul-sharma-b82215193/) |
 

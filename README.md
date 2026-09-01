@@ -25,6 +25,6 @@ Software Engineer building enterprise-grade CRM & ERP platforms end-to-end — f
 | 🌱 **Experience** | ~2 years shipping production apps across web & mobile |
 | 🤖 **Workflow** | AI-assisted development (Copilot, Claude, ChatGPT) |
 | 📫 **Contact** | [vipulxharma@gmail.com](mailto:vipulxharma@gmail.com) |
-| 🔗 **LinkedIn** | <a href="https://www.linkedin.com/in/vipul-sharma-b82215193/" target="_blank">vipul-sharma-b82215193</a> |
-| 🌐 **Portfolio** | <a href="https://vipul-portfolio-blgs.onrender.com/" target="_blank">vipul-portfolio-blgs.onrender.com</a> |
+| 🔗 **LinkedIn** | [vipul-sharma-b82215193](https://www.linkedin.com/in/vipul-sharma-b82215193/) |
+| 🌐 **Portfolio** | [vipul-portfolio-blgs.onrender.com](https://vipul-portfolio-blgs.onrender.com/) |
 

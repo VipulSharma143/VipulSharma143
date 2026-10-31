@@ -125,6 +125,16 @@ All components are developed with a focus on clean layering, modular boundaries,
 
 ---
 
+## Engineering Philosophy
+
+<blockquote>
+  <p align="center">
+    <i>"An idiot admires complexity, a genius admires simplicity."</i>
+  </p>
+</blockquote>
+
+---
+
 ## 📈 Commit Streak
 
 <p align="center">

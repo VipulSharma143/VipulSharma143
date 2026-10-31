@@ -1,163 +1,109 @@
- <div align="center">
+# Vipul Sharma
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vipul%20Sharma&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20%C2%B7%20India&descAlignY=62&descSize=16" width="100%" alt="Vipul Sharma" />
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=180&section=header&text=VIPUL%20SHARMA&fontSize=42&fontAlignY=45&fontColor=38bdf8&desc=Full-Stack%20Software%20Engineer%20%7C%20Enterprise%20Systems%20Builder&descAlignY=68&descSize=16&descColor=cbd5e1)
 
-<br/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Architecting+Scalable+Enterprise+CRM+%26+ERP+Platforms;%F0%9F%9B%A0%EF%B8%8F+Full-Stack%3A+.NET+Core+%C2%B7+Angular+%C2%B7+React+%C2%B7+Node.js;%F0%9F%93%B1+Building+Cross-Platform+Mobile+Apps+with+React+Native;%F0%9F%9A%80+Engineering+Robust+APIs+%26+Clean+System+Architectures)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+enterprise+CRM+%26+ERP+systems;From+API+architecture+to+pixel-perfect+UIs;Shipping+applications+across+web+%26+mobile" alt="Typing SVG" />
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&color=10b981)
+![Location](https://img.shields.io/badge/Location-India-blue?style=flat-square&color=0284c7)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-purple?style=flat-square&color=8b5cf6)
+![Focus](https://img.shields.io/badge/Focus-Enterprise%20SaaS%20%26%20APIs-orange?style=flat-square&color=f97316)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-sharma/)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulxharma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulSharma143)
 
-<br/>
+---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+### ⚡ System Profile (`$ whoami`)
 
-### 👤 About Me
-
-```yaml
-name: Vipul Sharma
-role: Software Engineer
-location: India
-experience: 2+ years
-focus: Full-Stack Web and Mobile
-email: vipulxharma@gmail.com
+```typescript
+const engineer: SoftwareEngineer = {
+  name: "Vipul Sharma",
+  title: "Software Engineer",
+  experienceYears: 2,
+  specialization: [
+    "Enterprise CRM & ERP Systems",
+    "Distributed REST APIs",
+    "Full-Stack Web & Mobile"
+  ],
+  architectureStyle: "Clean Architecture · Domain-Driven · Modular Monoliths",
+  currentMindset: "Building resilient backends, frictionless UIs, and developer-friendly workflows.",
+  dailyDrivers: [
+    "C# / .NET Core",
+    "Angular",
+    "TypeScript",
+    "SQL Server"
+  ]
+};
 ```
 
-I build the systems businesses run on: APIs, data models, and interfaces that people actually enjoy using.
+---
 
-My focus is building reliable applications, designing maintainable backend architectures, and creating clean, responsive user experiences.
+### 🛠️ Core Technology Stack
 
-</td>
-<td width="45%" valign="top">
+**⚙️ Backend & Architecture**
 
-### 📡 Current Status
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-🟢 **Availability:** Open to opportunities
+**🎨 Frontend & Mobile**
 
-🎯 **Focus:** Enterprise SaaS platforms
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-📚 **Exploring:** Cloud-native architectures
+**🗄️ Database & Cloud Infrastructure**
 
-🤖 **Workflow:** AI-assisted development
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-☕ **Fuel:** Coffee and clean code
+**🧰 Tools & AI Accelerators**
 
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-<br/>
+---
 
-<div align="center">
+### 🚀 What I Build & Deliver
 
-## ⚡ Tech Stack
+#### 🏢 Enterprise CRM & ERP Systems
+Designed and shipped business-critical modules: sales pipelines, inventory, billing automation, and role-based multi-tenant user access control.
 
-<img src="https://skillicons.dev/icons?i=angular,react,cs,dotnet,nodejs,js,ts,mongodb,postgres,git,github,vscode,css,html,docker,postman&theme=dark&perline=8" alt="Technology stack icons" />
+#### ⚡ Resilient Backend Services
+Engineered REST APIs in ASP.NET Core and Node.js with secure token authentication, optimized SQL queries, and clean layered design.
 
-</div>
+#### 📱 Modern Client Experiences
+Built scalable single-page applications using Angular and React, alongside responsive mobile applications with React Native.
 
-<br/>
+---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 📊 GitHub Activity & Metrics
 
-**🎨 Frontend**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipulSharma143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1)
 
-Angular · React · React Native · HTML · CSS
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulSharma143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1)
 
-**⚙️ Backend**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipulSharma143&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
 
-ASP.NET Core · .NET · Node.js · REST APIs
+---
 
-**💬 Languages**
+### 📬 Connect & Collaborate
 
-C# · TypeScript · JavaScript · SQL
+Have a project in mind, an opportunity, or an interesting engineering problem? Let's connect.
 
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Databases**
-
-SQL Server · MongoDB · PostgreSQL
-
-**🛠️ Tools**
-
-Git · GitHub · VS Code · Docker · Postman
-
-**🤖 AI Assistants**
-
-GitHub Copilot · Claude · ChatGPT
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ What I Build
-
-- 🏢 **Enterprise CRM**  
-  Customer lifecycle and relationship management.
-
-- 📊 **ERP Systems**  
-  Business operations and resource management.
-
-- 📱 **Cross-Platform Apps**  
-  Mobile applications with React Native.
-
-- 🔌 **RESTful APIs**  
-  Reliable backend services and integrations.
-
-- 🗃️ **Data Solutions**  
-  Data modeling, persistence, and integration.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 Let's Connect
-
-- 📫 **Email:** [vipulxharma@gmail.com](mailto:vipulxharma@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vipul-sharma/)
-- 🌐 **Portfolio:** [My Portfolio](#)
+- 💼 **LinkedIn:** [linkedin.com/in/vipul-sharma](https://www.linkedin.com/in/vipul-sharma/)
+- 📧 **Email:** [vipulxharma@gmail.com](mailto:vipulxharma@gmail.com)
 - 🐙 **GitHub:** [@VipulSharma143](https://github.com/VipulSharma143)
 
-<br/>
+---
 
-💡 Open to collaborations, freelance projects, and interesting engineering challenges.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 📈 GitHub Activity
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VipulSharma143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0&ring_color=F43F5E" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VipulSharma143&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F43F5E&currStreakLabel=06B6D4" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulSharma143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used programming languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer decoration" />
-
-<sub>Crafted with coffee and curiosity · © 2026 Vipul Sharma</sub>
-
-</div>
+*Designed with precision · Vipul Sharma © 2026*

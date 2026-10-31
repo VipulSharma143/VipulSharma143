@@ -1,142 +1,159 @@
-# ❯ vipul_sharma
+# Vipul Sharma
 
 ### Enterprise Software Engineer · Systems & Full-Stack
 
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10b981?style=flat-square&logo=statuspage&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0284c7?style=flat-square&logo=linkedin&logoColor=white)
-![Location](https://img.shields.io/badge/LOCATION-INDIA-18181b?style=flat-square)
-![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-18181b?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-27272a?style=flat-square" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-27272a?style=flat-square" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipul_Sharma-18181b?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/vipul-sharma/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-18181b?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:vipulxharma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-VipulSharma143-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulSharma143)
-
-> **Primary Directive:** Engineering robust enterprise backends and high-performance client applications. Specializing in CRM and ERP platforms, distributed REST APIs, and full-stack application development.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vipul-sharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vipulxharma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/VipulSharma143">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### ⚙️ System Configuration
+> **PRIMARY DIRECTIVE**
+>
+> Engineering robust, fault-tolerant enterprise backends and high-performance client applications. Focused on scalable software, maintainable architecture, and mission-critical CRM and ERP platforms.
+
+## System Configuration
 
 ```yaml
-name: Vipul Sharma
-username: VipulSharma143
+developer: Vipul Sharma
 role: Software Engineer
 experience: 2+ Years
 location: India (UTC+5:30)
 
-specialization:
-  - Enterprise CRM & ERP Systems
-  - Distributed REST APIs
-  - Full-Stack Web Applications
-  - Cross-Platform Mobile Development
-
 core_stack:
-  - C#
-  - .NET / ASP.NET Core
-  - Angular
-  - React
-  - TypeScript
-  - SQL Server
+  backend: [.NET, C#, ASP.NET Core, Node.js]
+  frontend: [Angular, React, React Native, TypeScript, JavaScript]
+  database: [SQL Server, PostgreSQL, MongoDB]
 
-engineering_focus: >
-  Building reliable backends, maintainable architectures,
-  scalable applications, and developer-friendly workflows.
-
-availability: Open to Opportunities
+engineering_focus:
+  - Enterprise ERP & CRM
+  - REST API Development
+  - Database Architecture
+  - Full-Stack Applications
+  - Cross-Platform Development
 ```
 
 ---
 
-### ⚡ Architectural Stack & Tools
+## Architectural Stack & Tools
 
 All components are developed with a focus on clean layering, modular boundaries, maintainability, and type safety.
 
-**[ SERVER & RUNTIME ]**
+### SERVER & RUNTIME
 
-![.NET](https://img.shields.io/badge/.NET_Core-121212?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-121212?style=flat-square&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-121212?style=flat-square&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
+</p>
 
-**[ CLIENT & INTERFACES ]**
+### CLIENT & INTERFACES
 
-![Angular](https://img.shields.io/badge/Angular-121212?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-121212?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-**[ PERSISTENCE & DATA ]**
+### PERSISTENCE & DATA
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-121212?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-**[ DEVOPS & PLATFORM ]**
+### DEVOPS & PLATFORM
 
-![Docker](https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121212?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-121212?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-121212?style=flat-square&logo=linux&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
-**[ ENGINEERING AI ]**
+### ENGINEERING AI
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-121212?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-121212?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-121212?style=flat-square&logo=openai&logoColor=white)
-
----
-
-### 📦 System Blueprints & Core Competencies
-
-**🏢 01 / Enterprise ERP & CRM Platforms**
-
-- **Business Logic:** Enterprise modules covering inventory management, order processing, sales pipelines, and customer lifecycle management.
-- **Access Control:** Role-based access control (RBAC), authentication, and authorization.
-- **Workflow Automation:** Business process automation and operational workflow management.
-- **Application Design:** Modular and maintainable business application architecture.
-
-**⚡ 02 / Resilient API Architecture & Data Modeling**
-
-- **Backend Architecture:** ASP.NET Core and Node.js backend services with structured application layers.
-- **Query Optimization:** Database indexing, query optimization, and efficient data access.
-- **Data Modeling:** Relational and document-based database design using SQL Server, PostgreSQL, and MongoDB.
-- **Integration:** RESTful APIs and third-party service integrations.
-
-**📱 03 / Multi-Platform Client Applications**
-
-- **Web Frontends:** Component-driven applications and enterprise dashboards using Angular and React.
-- **Mobile Runtime:** Cross-platform mobile applications using React Native.
-- **Frontend Architecture:** Reusable components, structured state management, and responsive interfaces.
-- **Performance:** Efficient rendering, maintainable UI architecture, and optimized application workflows.
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Engineering Telemetry
+## System Blueprints & Core Competencies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipulSharma143&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=10b981&text_color=a1a1aa&icon_color=10b981)
+### 01. Enterprise ERP & CRM Platforms
 
-![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulSharma143&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=10b981&text_color=a1a1aa)
+- Developing enterprise business applications and modular management systems.
+- Implementing business workflows for inventory, orders, customer management, and lead lifecycles.
+- Building role-based access control, authentication, token validation, and audit logging.
+- Designing maintainable business logic and workflow automation.
 
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipulSharma143&theme=dark&hide_border=true&background=00000000&ring=10b981&fire=10b981&currStreakLabel=10b981)
+### 02. Resilient API Architecture & Data Modeling
+
+- Developing RESTful APIs using ASP.NET Core and Node.js.
+- Organizing backend services with clean separation of concerns and modular architecture.
+- Designing relational database schemas, normalization, indexing, and query optimization.
+- Integrating databases and external services into reliable application workflows.
+
+### 03. Multi-Platform Client Applications
+
+- Building responsive dashboards and interfaces with Angular and React.
+- Developing cross-platform mobile applications with React Native.
+- Implementing reusable components, state management, and maintainable frontend structures.
+- Connecting client applications with backend APIs.
 
 ---
 
-### 📡 Initiate Communication
+## 📈 Commit Streak
 
-Interested in full-stack engineering opportunities, enterprise application development, or challenging software projects?
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=VipulSharma143&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="Vipul Sharma's GitHub Commit Streak"
+  />
+</p>
 
-**Available communication channels:**
+---
 
-- **Email:** [vipulxharma@gmail.com](mailto:vipulxharma@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vipul-sharma](https://www.linkedin.com/in/vipul-sharma/)
-- **GitHub:** [github.com/VipulSharma143](https://github.com/VipulSharma143)
+## Initiate Communication
+
+Interested in engineering, collaboration, or discussing software architecture?
+
+<p align="center">
+  <a href="mailto:vipulxharma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vipulxharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vipul-sharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vipul_Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/VipulSharma143">
+    <img src="https://img.shields.io/badge/GitHub-VipulSharma143-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-
-`ENGINEERED_BY_VIPUL // RELEASE_2026`
-
+  <sub>ENGINEERED_BY_VIPUL // BUILDING_RELIABLE_SOFTWARE // 2026</sub>
 </p>

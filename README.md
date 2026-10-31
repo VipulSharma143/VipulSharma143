@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vipul%20Sharma&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20%C2%B7%20India&descAlignY=62&descSize=16" width="100%" alt="Vipul Sharma - Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vipul%20Sharma&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20%C2%B7%20India&descAlignY=62&descSize=16" width="100%" alt="Vipul Sharma" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+enterprise+CRM+%26+ERP+systems;From+API+architecture+to+pixel-perfect+UIs;Shipping+applications+across+web+%26+mobile" alt="Building enterprise applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+enterprise+CRM+%26+ERP+systems;From+API+architecture+to+pixel-perfect+UIs;Shipping+applications+across+web+%26+mobile" alt="Typing SVG" />
 
 </div>
 
@@ -27,7 +27,7 @@ email: vipulxharma@gmail.com
 
 I build the systems businesses run on: APIs, data models, and interfaces that people actually enjoy using.
 
-My focus is on building reliable applications, designing maintainable backend architectures, and creating clean, responsive user experiences.
+My focus is building reliable applications, designing maintainable backend architectures, and creating clean, responsive user experiences.
 
 </td>
 <td width="45%" valign="top">
@@ -62,32 +62,36 @@ My focus is on building reliable applications, designing maintainable backend ar
 
 <table width="100%">
 <tr>
-<th align="left">Layer</th>
-<th align="left">Technologies</th>
-</tr>
-<tr>
-<td>🎨 Frontend</td>
-<td>Angular, React, React Native, HTML, CSS</td>
-</tr>
-<tr>
-<td>⚙️ Backend</td>
-<td>ASP.NET Core, .NET, Node.js, REST APIs</td>
-</tr>
-<tr>
-<td>💬 Languages</td>
-<td>C#, TypeScript, JavaScript, SQL</td>
-</tr>
-<tr>
-<td>🗄️ Databases</td>
-<td>SQL Server, MongoDB, PostgreSQL</td>
-</tr>
-<tr>
-<td>🛠️ Tools</td>
-<td>Git, GitHub, VS Code, Docker, Postman</td>
-</tr>
-<tr>
-<td>🤖 AI Assistants</td>
-<td>GitHub Copilot, Claude, ChatGPT</td>
+<td width="50%" valign="top">
+
+**🎨 Frontend**
+
+Angular · React · React Native · HTML · CSS
+
+**⚙️ Backend**
+
+ASP.NET Core · .NET · Node.js · REST APIs
+
+**💬 Languages**
+
+C# · TypeScript · JavaScript · SQL
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Databases**
+
+SQL Server · MongoDB · PostgreSQL
+
+**🛠️ Tools**
+
+Git · GitHub · VS Code · Docker · Postman
+
+**🤖 AI Assistants**
+
+GitHub Copilot · Claude · ChatGPT
+
+</td>
 </tr>
 </table>
 
@@ -120,9 +124,9 @@ My focus is on building reliable applications, designing maintainable backend ar
 ### 🔗 Let's Connect
 
 - 📫 **Email:** [vipulxharma@gmail.com](mailto:vipulxharma@gmail.com)
-- 💼 **LinkedIn:** [vipul-sharma](https://www.linkedin.com/in/vipul-sharma/)
-- 🌐 **Portfolio:** [vipul-portfolio](#)
-- 🐙 **GitHub:** [@vipulxharma](https://github.com/vipulxharma)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vipul-sharma/)
+- 🌐 **Portfolio:** [My Portfolio](#)
+- 🐙 **GitHub:** [@VipulSharma143](https://github.com/VipulSharma143)
 
 <br/>
 
@@ -138,13 +142,13 @@ My focus is on building reliable applications, designing maintainable backend ar
 
 ## 📈 GitHub Activity
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipulxharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0&ring_color=F43F5E" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VipulSharma143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0&ring_color=F43F5E" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulxharma&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F43F5E&currStreakLabel=06B6D4" alt="GitHub contribution streak" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VipulSharma143&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F43F5E&currStreakLabel=06B6D4" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulxharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used programming languages" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulSharma143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used programming languages" />
 
 </div>
 
